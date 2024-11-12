@@ -4,7 +4,7 @@ Este proyecto es una práctica para aprender y aplicar conceptos fundamentales d
 
 ## Características del Proyecto
 * `Creación de Componentes:` Cada funcionalidad o parte visual está encapsulada en un componente independiente, lo que facilita la organización y la reutilización del código.
-#### `Hooks:`
+* Hooks:
 * `useState:` Para gestionar el estado local de los componentes, como el listado de productos que se van cargando.
 * `useEffect:` Para manejar efectos secundarios, como la actualización de datos o acciones que deben ejecutarse después de que el componente se renderice.
 * `Custom Hook (useForm):` Este hook personalizado facilita el manejo del formulario de carga de productos, centralizando la lógica de entrada y validación de datos.
